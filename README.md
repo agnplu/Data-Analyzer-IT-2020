@@ -21,7 +21,7 @@ As mentioned above, the program might prove useful for linguists, students, educ
  - analyzing **shifts in preferences** regarding the use of particular words over a longer period of time (comparative and historical linguistics)
  - analyzing one's **style of writing** in terms of vocabulary choices (especially useful for linguists working in the field of stylistics)
  - analyzing the **tone of messages** (looking at the adjectives/adverbs used in the text)
- -  analyzing the most freequent words in order to get **a general idea about the topic** of the text (for  publishers, and content developers such a tool might give insight into the main message the author wants to convey and quickly allow to tag a particular piece of text)
+ -  analyzing the most freequent words in order to get **a general idea about the topic** of the text (such a tool might give publishers and content developers an insight into the main message the author wants to convey and facilitate tagging a particular piece of text)
  - looking for **repetitive words** in order to improve one's style of writing (especially useful for students, researchers, and writers who want to improve the readability of their texts)
  - learning **the basics of syntax** (e.g. by analyzing the structure of annotated texts or investigating words assigned to particular parts of speech)
  
