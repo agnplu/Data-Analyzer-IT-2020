@@ -1,1 +1,1 @@
-# Data-Analyzer-IT-2020-
+# Data-Analyzer-IT-2020
